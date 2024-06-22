@@ -4,6 +4,7 @@ Nuestra app se trata de una herramienta diseñada para explorar y comprender tu 
 proporcionándote una guía personalizada para mejorar tu bienestar emocional.
 ## Modelo relacional
 Modelo
+
 [Up
 CREATE TABLE usuarios (
     usuario_id INT AUTO_INCREMENT PRIMARY KEY,
