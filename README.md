@@ -3,7 +3,18 @@ Escribir contexto de su solucion
 Nuestra app se trata de una herramienta diseñada para explorar y comprender tu bienestar emocional y psicológico. Este test te ayudará a reflexionar sobre tus emociones, pensamientos y comportamientos,
 proporcionándote una guía personalizada para mejorar tu bienestar emocional.
 ## Modelo relacional
- Modelo 
+ Modelo v bxjhvbhjcbs sv
+  ndkjv  ddibhiug bh
+  cnbsjhvbu  
+  bnxjhvkbdiubv b 
+  nvkjsdbvuidhbiuhbiuxhfboddho8idfb
+  bcvjcbuifbvd 
+  jvuisdhvuisvhg  
+  djgxdiu ghigh8 b8
+  jgi huihbuihbhbi bhbh  bhb
+  nbi h bihbi b 
+   99 bu itjrdj6fb
+   
 ## Desarrollo de propuesta
 Escribir sobre la solución realizar
 Recomendaciones personalizadas para el bienestar
