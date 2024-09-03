@@ -9,3 +9,32 @@ Escribir sobre la solución realizar
 Recomendaciones personalizadas para el bienestar
 En TestPsych, nos enfocamos en ofrecer recomendaciones personalizadas basadas en los resultados del test psicológicos. Estas recomendaciones están diseñadas con el fin de ayudar a los usuarios a mejorar
 su bienestar emocional y psicológico de manera práctica y comprensible.
+
+ct8ucujgcdnh
+fn
+yfxr
+nt
+yhgnm
+tgdhj
+m
+gdjm
+cg
+ku
+tufk,
+fyhulu,k
+hj
+,k
+h,
+
+
+k
+tgt
+kj
+sx
+jg
+jh
+jgh
+
+
+dlkksedkgsnkglmkemfkgfknragaerhgpijet
+kkrgjp{iehgpisjt
