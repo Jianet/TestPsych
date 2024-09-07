@@ -11,3 +11,5 @@ En TestPsych, nos enfocamos en ofrecer recomendaciones personalizadas basadas en
 su bienestar emocional y psicológico de manera práctica y comprensible.
 ## Tipos de test que se encontrarán en nuestra aplicación
 ### Test del estrés
+
+#### Test de la ansiedad
