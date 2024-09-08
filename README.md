@@ -17,6 +17,11 @@ b) Ocasionalmente
 c) Frecuentemente  
 d) Constantemente  
 
+2. ¿Cuáles son las principales fuentes de estrés en tu vida actualmente?  
+a) Problemas personales  
+b) Trabajo o estudios  
+c) Problemas económicos  
+d) Otros (especificar)
 
 #### Test de la ansiedad
 
