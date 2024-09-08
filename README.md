@@ -11,11 +11,11 @@ En TestPsych, nos enfocamos en ofrecer recomendaciones personalizadas basadas en
 su bienestar emocional y psicológico de manera práctica y comprensible.
 ## Tipos de test que se encontrarán en nuestra aplicación
 #### Test del estrés
-¿Con qué frecuencia te sientes estresado/a durante la semana?
-a) Casi nunca
-b) Ocasionalmente
-c) Frecuentemente
-d) Constantemente
+¿Con qué frecuencia te sientes estresado/a durante la semana?   
+a) Casi nunca  
+b) Ocasionalmente  
+c) Frecuentemente  
+d) Constantemente  
 
 
 #### Test de la ansiedad
