@@ -12,7 +12,7 @@ su bienestar emocional y psicológico de manera práctica y comprensible.
 ## Tipos de test que se encontrarán en nuestra aplicación
 #### Test del estrés
 1. ¿Con qué frecuencia te sientes estresado/a durante la semana?   
-a) Casi nunca  
+a) Nunca  
 b) Ocasionalmente  
 c) Frecuentemente  
 d) Constantemente  
@@ -23,6 +23,13 @@ b) Trabajo o estudios
 c) Problemas económicos  
 d) Otros (especificar)
 
+3. ¿Has presentado síntomas físicos por el estrés?  
+a) Nunca  
+b) Rara vez  
+c) A veces  
+d) Frecuentemente
+
+4. 
 #### Test de la ansiedad
 
 #### Test de la autoestima
