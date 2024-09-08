@@ -29,7 +29,13 @@ b) Rara vez
 c) A veces  
 d) Frecuentemente
 
-4. 
+4. ¿Sientes que tu rendimiento en el trabajo o en los estudios disminuye cuando estás estresado/a?  
+a) Nunca  
+b) A veces  
+c) Frecuentemente  
+d) Siempre
+
+5.
 #### Test de la ansiedad
 
 #### Test de la autoestima
