@@ -35,7 +35,13 @@ b) A veces
 c) Frecuentemente  
 d) Siempre
 
-5.
-#### Test de la ansiedad
+5. ¿Te sientes irritable o emocionalmente inestable cuando estás bajo presión?
+a) Nunca
+b) Raramente
+c) A veces
+d) Frecuentemente
 
-#### Test de la autoestima
+#### Test de la ansiedad  
+
+
+#### Test de la autoestima  
