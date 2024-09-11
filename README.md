@@ -46,9 +46,13 @@ d) Frecuentemente
 
    
 a)	Nunca
+
 b)	Rara vez
+
 c)	A veces
+
 d)	Con frecuencia
+
 e)	Siempre
 
 
@@ -57,9 +61,13 @@ e)	Siempre
 
    
 a)	Nunca
+
 b)	Rara vez
+
 c)	A veces
+
 d)	Con frecuencia
+
 e)	Siempre
 
 
@@ -69,9 +77,13 @@ e)	Siempre
 
    
 a)	Nunca
+
 b)	Rara vez
+
 c)	A veces
+
 d)	Con frecuencia
+
 e)	Siempre
 
 
@@ -80,9 +92,13 @@ e)	Siempre
 
    
 a)	Nunca
+
 b)	Rara vez
+
 c)	A veces
+
 d)	Con frecuencia
+
 e)	Siempre
 
 
@@ -91,9 +107,13 @@ e)	Siempre
 
    
 a)	Tranquilo/a
+
 b)	Un poco nervioso/a
+
 c)	Moderadamente ansioso/a
+
 d)	Muy ansioso/a
+
 e)	Extremadamente ansioso/a
 
 
