@@ -50,6 +50,8 @@ c)	A veces
 d)	Con frecuencia
 e)	Siempre
 
+
+
 2.	¿Tienes problemas para dormir debido a pensamientos preocupantes?
    
 a)	Nunca
@@ -57,6 +59,8 @@ b)	Rara vez
 c)	A veces
 d)	Con frecuencia
 e)	Siempre
+
+
 
 3.	¿Te sientes abrumado o incapaz de manejar las cosas que te preocupan?
    
@@ -66,6 +70,8 @@ c)	A veces
 d)	Con frecuencia
 e)	Siempre
 
+
+
 4.	¿Te resulta difícil concentrarte debido a pensamientos negativos o ansiosos?
    
 a)	Nunca
@@ -74,12 +80,16 @@ c)	A veces
 d)	Con frecuencia
 e)	Siempre
 
+
+
 5.	¿Cómo te sientes cuando te enfrentas a una situación nueva o desconocida?
 a)	Tranquilo/a
 b)	Un poco nervioso/a
 c)	Moderadamente ansioso/a
 d)	Muy ansioso/a
 e)	Extremadamente ansioso/a
+
+
 
 
 #### Test de la autoestima  
