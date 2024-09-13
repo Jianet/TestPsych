@@ -1,10 +1,10 @@
-##Proyecto del ABP 
+## Proyecto del ABP 
 Desarrollo de una aplicación en Phyton 
 
-##Título del proyecto 
+## Título del proyecto 
 Aplicación en Python, que automatiza un contexto especifico con acceso a datos 
 
-##Descripción  
+## Descripción  
 Este proyecto tiene como objetivo desarrollar una aplicación en Pythton que automatice un contexto específico con acceso a datos, se debe realizar un análisis detallado de los requerimientos del proyecto; además debe identificar las necesidades específicas del sistema, incluyendo el tipo de datos que se manejarán, la lógica de negocio y las funcionalidades esperadas, determina las abstracciones de los modelos a utilizar, desde la base de datos hasta la forma de cómo se aplicaría el paradigma de programación para el proyecto propuesto. 
 
 ##Estructura del proyecto  
@@ -18,9 +18,9 @@ Con el aumento de casos de estrés, ansiedad y problemas de autoestima en la soc
 ## Modelo relacional
  Modelo
 
-##Análisis de Requerimientos
+## Análisis de Requerimientos
 
-## Requerimientos Funcionales:
+Requerimientos Funcionales:
 - Registro de usuarios: El sistema permitirá registrar a los usuarios ingresando sus datos personales (nombre, email) para que puedan acceder a los tests y recibir sus resultados personalizados.
 - Tests psicológicos: La aplicación ofrecerá tres tests principales enfocados en:
 Estrés
@@ -32,13 +32,13 @@ Autoestima
 - Recomendaciones para mejorar su estado emocional.
 - Resultados almacenados: El sistema permitirá almacenar los resultados en una base de datos para que los usuarios puedan revisar su progreso o realizar nuevos tests en el futuro.
 
-##Requerimientos No Funcionales:
+Requerimientos No Funcionales:
 - Usabilidad: La aplicación debe ser intuitiva y fácil de navegar, especialmente para usuarios sin conocimientos técnicos.
 - Accesibilidad: Debe funcionar en diversas plataformas (PC, móvil) y ser accesible para personas con diferentes niveles de habilidades tecnológicas.
 - Privacidad: Los datos del usuario (nombre, email, resultados) deben ser tratados de forma confidencial, respetando su privacidad.
 
 
-## Tipos de test que se encontrarán en nuestra aplicación
+## Test que se encontrarán en nuestra aplicación con sus respectivas preguntas y respuestas.
 ### Test del estrés
 1. ¿Con qué frecuencia te sientes estresado/a durante la semana?   
 a) Nunca  
