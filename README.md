@@ -46,40 +46,40 @@ d) Frecuentemente
 - Alto estrés (61-100%) Frecuente/Constante: Tu nivel de estrés es preocupantemente alto. Te recomendamos buscar ayuda profesional y cambiar tu rutina diaria.
 
 ### Test de la ansiedad 
-1. ¿Con qué frecuencia te sientes preocupado por cosas cotidianas?
-a) Nunca
-b) Rara vez
-c) A veces
-d) Con frecuencia
-e) Siempre
+1. ¿Con qué frecuencia te sientes preocupado por cosas cotidianas?  
+a) Nunca  
+b) Rara vez  
+c) A veces  
+d) Con frecuencia  
+e) Siempre  
 
-2. ¿Tienes problemas para dormir debido a pensamientos preocupantes?
-a) Nunca
-b) Rara vez
-c) A veces
-d) Con frecuencia
-e) Siempre
+2. ¿Tienes problemas para dormir debido a pensamientos preocupantes?  
+a) Nunca  
+b) Rara vez  
+c) A veces  
+d) Con frecuencia  
+e) Siempre  
 
-3. ¿Te sientes abrumado o incapaz de manejar las cosas que te preocupan?
-a) Nunca
-b) Rara vez
-c) A veces
-d) Con frecuencia
-e) Siempre
+3. ¿Te sientes abrumado o incapaz de manejar las cosas que te preocupan?  
+a) Nunca  
+b) Rara vez   
+c) A veces  
+d) Con frecuencia  
+e) Siempre  
 
-4. ¿Te resulta difícil concentrarte debido a pensamientos negativos o ansiosos?
-a) Nunca
-b) Rara vez
-c) A veces
-d) Con frecuencia
-e) Siempre
+4. ¿Te resulta difícil concentrarte debido a pensamientos negativos o ansiosos?  
+a) Nunca  
+b) Rara vez  
+c) A veces  
+d) Con frecuencia  
+e) Siempre  
 
-5. ¿Cómo te sientes cuando te enfrentas a una situación nueva o desconocida?
-a) Tranquilo/a
-b) Un poco nervioso/a
-c) Moderadamente ansioso/a
-d) Muy ansioso/a
-e) Extremadamente ansioso/a
+5. ¿Cómo te sientes cuando te enfrentas a una situación nueva o desconocida?  
+a) Tranquilo/a  
+b) Un poco nervioso/a  
+c) Moderadamente ansioso/a  
+d) Muy ansioso/a  
+e) Extremadamente ansioso/a  
 #### Deducción
 - Baja ansiedad (0-20%) Nunca/Rara vez: No tienes problemas significativos de ansiedad. Mantén tus hábitos saludables.
 
@@ -88,30 +88,30 @@ e) Extremadamente ansioso/a
 - Alta ansiedad (61-100%) Siempre/Con frecuencia: Tu ansiedad es alta y podría afectar tu vida diaria. Busca apoyo profesional y establece una rutina calmante.
   
 ### Test de la autoestima  
-1. ¿Cuál es tu comportamiento frente a grandes grupos sociales?
-2. a) Me siento ansioso/a y pienso que no formo parte de ellos.
-b) Sobrepienso sus comportamientos hacia mí.
-c) Aumenta mi interés social, siento seguridad y comodidad.
+1. ¿Cuál es tu comportamiento frente a grandes grupos sociales?  
+2. a) Me siento ansioso/a y pienso que no formo parte de ellos.  
+b) Sobrepienso sus comportamientos hacia mí.  
+c) Aumenta mi interés social, siento seguridad y comodidad.  
 
-3. ¿Cómo reaccionas ante circunstancias difíciles y adversas?
-a) Estoy lleno/a de ira y frustración.
-b) Me muestro optimista y busco soluciones.
-c) Tengo pensamientos negativos y falta de esperanza.
+3. ¿Cómo reaccionas ante circunstancias difíciles y adversas?  
+a) Estoy lleno/a de ira y frustración.  
+b) Me muestro optimista y busco soluciones.  
+c) Tengo pensamientos negativos y falta de esperanza.  
 
-4. ¿Cómo enfrentas los fracasos?
-a) Busco mejorar día a día.
-b) Me cuesta hacerlo, creo que soy mediocre y me culpo constantemente.
-c) Me siento triste y decepcionado/a.
+4. ¿Cómo enfrentas los fracasos?  
+a) Busco mejorar día a día.  
+b) Me cuesta hacerlo, creo que soy mediocre y me culpo constantemente.  
+c) Me siento triste y decepcionado/a.  
 
-5. ¿Sientes que tu valor proviene de las opiniones ajenas?
-a) Me afectan significativamente, pero intento no dejarme llevar.
-b) Sí, siempre trato de encajar para no caer en el rechazo.
-c) EStoy seguro/a de mi valor y la percepción ajena no interviene en mis capacidades.
+5. ¿Sientes que tu valor proviene de las opiniones ajenas?   
+a) Me afectan significativamente, pero intento no dejarme llevar.   
+b) Sí, siempre trato de encajar para no caer en el rechazo.   
+c) EStoy seguro/a de mi valor y la percepción ajena no interviene en mis capacidades.  
 
 6. ¿Estableces límites respecto a los intereses ajenos?
-a) No, siempre complazco los intereses de los demás dejando de lado los propios.
-b) Tengo carácter y personalidad para no tener que satisfacer a otros.
-c) Trato de agradar para ser gratificado/a y obtener aprobación.
+a) No, siempre complazco los intereses de los demás dejando de lado los propios.   
+b) Tengo carácter y personalidad para no tener que satisfacer a otros.   
+c) Trato de agradar para ser gratificado/a y obtener aprobación.  
 #### Deducción 
 - Baja autoestima (0-20%) Me siento ansioso/Me afecta: Tu autoestima es baja. Es importante buscar apoyo y trabajar en la autoaceptación de tu persona.
  
