@@ -40,7 +40,7 @@ a) Nunca
 b) Raramente  
 c) A veces  
 d) Frecuentemente 
-## Deducción
+### Deducción
 - Bajo estrés (0-20%) Nunca/Raramente: Estás manejando bien el estrés. ¡Ánimos!
 - Estrés moderado (21-60%) A veces/Ocasionalmente: Presentas un nivel de estrés moderado. Intenta hacer actividades que te relajen y ten un tiempo de descanso.
 - Alto estrés (61-100%) Frecuente/Constante: Tu nivel de estrés es preocupantemente alto. Te recomendamos buscar ayuda profesional y cambiar tu rutina diaria.
