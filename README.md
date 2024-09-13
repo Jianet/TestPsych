@@ -39,85 +39,48 @@ d) Siempre
 a) Nunca  
 b) Raramente  
 c) A veces  
-d) Frecuentemente  
+d) Frecuentemente 
+## Deducción
+- Bajo estrés (0-20%) Nunca/Raramente: Estás manejando bien el estrés. ¡Ánimos!
+- Estrés moderado (21-60%) A veces/Ocasionalmente: Presentas un nivel de estrés moderado. Intenta hacer actividades que te relajen y ten un tiempo de descanso.
+- Alto estrés (61-100%) Frecuente/Constante: Tu nivel de estrés es preocupantemente alto. Te recomendamos buscar ayuda profesional y cambiar tu rutina diaria.
 
 #### Test de la ansiedad 
 1.	¿Con qué frecuencia te sientes preocupado por cosas cotidianas?
-
-   
 a)	Nunca
-
 b)	Rara vez
-
 c)	A veces
-
 d)	Con frecuencia
-
 e)	Siempre
 
-
-
-2.	¿Tienes problemas para dormir debido a pensamientos preocupantes?
-
-   
+2.	¿Tienes problemas para dormir debido a pensamientos preocupantes?  
 a)	Nunca
-
 b)	Rara vez
-
 c)	A veces
-
 d)	Con frecuencia
-
 e)	Siempre
 
-
-
-3.	¿Te sientes abrumado o incapaz de manejar las cosas que te preocupan?
-
-
-   
+3.	¿Te sientes abrumado o incapaz de manejar las cosas que te preocupan?   
 a)	Nunca
-
 b)	Rara vez
-
 c)	A veces
-
 d)	Con frecuencia
-
 e)	Siempre
 
-
-
-4.	¿Te resulta difícil concentrarte debido a pensamientos negativos o ansiosos?
-
-   
+4.	¿Te resulta difícil concentrarte debido a pensamientos negativos o ansiosos? 
 a)	Nunca
-
 b)	Rara vez
-
 c)	A veces
-
 d)	Con frecuencia
-
 e)	Siempre
 
-
-
-5.	¿Cómo te sientes cuando te enfrentas a una situación nueva o desconocida?
-
-   
+5.	¿Cómo te sientes cuando te enfrentas a una situación nueva o desconocida?   
 a)	Tranquilo/a
-
 b)	Un poco nervioso/a
-
 c)	Moderadamente ansioso/a
-
 d)	Muy ansioso/a
-
 e)	Extremadamente ansioso/a
-
-
-
+## Deducción
 
 #### Test de la autoestima  
 1. ¿Cuál es tu comportamiento frente a grandes grupos sociales?    
@@ -143,4 +106,5 @@ c) EStoy seguro/a de mi valor y la percepción ajena no interviene en mis capaci
 5. ¿Estableces límites respecto a los intereses ajenos?   
 a) No, siempre complazco los intereses de los demás dejando de lado los propios.   
 b) Tengo carácter y personalidad para no tener que satisfacer a otros.   
-c) Trato de agradar para ser gratificado/a y obtener aprobación.   
+c) Trato de agradar para ser gratificado/a y obtener aprobación.
+## Deducción 
