@@ -16,7 +16,9 @@ En un mundo donde el bienestar emocional se ha vuelto una prioridad, TestPsych e
 Con el aumento de casos de estrés, ansiedad y problemas de autoestima en la sociedad moderna, muchas personas carecen de acceso a recursos que les ayuden a comprender su bienestar emocional. TestPsych aborda este problema proporcionando una herramienta accesible que permite a los usuarios evaluar su estado mental y recibir recomendaciones personalizadas para mejorar su salud emocional.
 
 ## Modelo relacional
- Modelo
+![ModeloTest](https://github.com/user-attachments/assets/466fcc37-cd63-425a-8343-e6fac4af4869)
+
+
 
 ## Análisis de Requerimientos
 
