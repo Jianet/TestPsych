@@ -1,12 +1,43 @@
+##Proyecto del ABP 
+Desarrollo de una aplicación en Phyton 
+
+##Título del proyecto 
+Aplicación en Python, que automatiza un contexto especifico con acceso a datos 
+
+##Descripción  
+Este proyecto tiene como objetivo desarrollar una aplicación en Pythton que automatice un contexto específico con acceso a datos, se debe realizar un análisis detallado de los requerimientos del proyecto; además debe identificar las necesidades específicas del sistema, incluyendo el tipo de datos que se manejarán, la lógica de negocio y las funcionalidades esperadas, determina las abstracciones de los modelos a utilizar, desde la base de datos hasta la forma de cómo se aplicaría el paradigma de programación para el proyecto propuesto. 
+
+##Estructura del proyecto  
+
 ## TestPsych
-Nuestra app se trata de una herramienta diseñada para explorar y comprender tu bienestar emocional y psicológico. Este test te ayudará a reflexionar sobre tus emociones, pensamientos y comportamientos,
-proporcionándote una guía personalizada para mejorar tu bienestar emocional.
+En un mundo donde el bienestar emocional se ha vuelto una prioridad, TestPsych es una herramienta diseñada para ayudar a las personas a comprender y reflexionar sobre su estado emocional y psicológico. A través de una serie de tests personalizados, esta aplicación brinda recomendaciones prácticas que permiten a los usuarios mejorar su salud mental, proporcionando un apoyo accesible y comprensible.
+
+## Contexto
+Con el aumento de casos de estrés, ansiedad y problemas de autoestima en la sociedad moderna, muchas personas carecen de acceso a recursos que les ayuden a comprender su bienestar emocional. TestPsych aborda este problema proporcionando una herramienta accesible que permite a los usuarios evaluar su estado mental y recibir recomendaciones personalizadas para mejorar su salud emocional.
+
 ## Modelo relacional
  Modelo
-## Desarrollo de propuesta
-Recomendaciones personalizadas para el bienestar.
-En TestPsych, nos enfocamos en ofrecer recomendaciones personalizadas basadas en los resultados del test psicológicos. Estas recomendaciones están diseñadas con el fin de ayudar a los usuarios a mejorar
-su bienestar emocional y psicológico de manera práctica y comprensible.
+
+##Análisis de Requerimientos
+
+## Requerimientos Funcionales:
+- Registro de usuarios: El sistema permitirá registrar a los usuarios ingresando sus datos personales (nombre, email) para que puedan acceder a los tests y recibir sus resultados personalizados.
+- Tests psicológicos: La aplicación ofrecerá tres tests principales enfocados en:
+Estrés
+Ansiedad
+Autoestima
+- Preguntas y respuestas: Cada test constará de una serie de preguntas con respuestas múltiples, cada una asignada con un puntaje que será utilizado para la evaluación final.
+- Evaluación y deducción: Al finalizar el test, el usuario recibirá una evaluación en función de su puntaje total. La evaluación incluirá:
+- Mensajes personalizados según el nivel de estrés, ansiedad o autoestima detectado.
+- Recomendaciones para mejorar su estado emocional.
+- Resultados almacenados: El sistema permitirá almacenar los resultados en una base de datos para que los usuarios puedan revisar su progreso o realizar nuevos tests en el futuro.
+
+##Requerimientos No Funcionales:
+- Usabilidad: La aplicación debe ser intuitiva y fácil de navegar, especialmente para usuarios sin conocimientos técnicos.
+- Accesibilidad: Debe funcionar en diversas plataformas (PC, móvil) y ser accesible para personas con diferentes niveles de habilidades tecnológicas.
+- Privacidad: Los datos del usuario (nombre, email, resultados) deben ser tratados de forma confidencial, respetando su privacidad.
+
+
 ## Tipos de test que se encontrarán en nuestra aplicación
 ### Test del estrés
 1. ¿Con qué frecuencia te sientes estresado/a durante la semana?   
