@@ -1,5 +1,4 @@
 ## TestPsych
-Escribir contexto de su solucion
 Nuestra app se trata de una herramienta diseñada para explorar y comprender tu bienestar emocional y psicológico. Este test te ayudará a reflexionar sobre tus emociones, pensamientos y comportamientos,
 proporcionándote una guía personalizada para mejorar tu bienestar emocional.
 ## Modelo relacional
@@ -10,7 +9,7 @@ Recomendaciones personalizadas para el bienestar
 En TestPsych, nos enfocamos en ofrecer recomendaciones personalizadas basadas en los resultados del test psicológicos. Estas recomendaciones están diseñadas con el fin de ayudar a los usuarios a mejorar
 su bienestar emocional y psicológico de manera práctica y comprensible.
 ## Tipos de test que se encontrarán en nuestra aplicación
-#### Test del estrés
+### Test del estrés
 1. ¿Con qué frecuencia te sientes estresado/a durante la semana?   
 a) Nunca  
 b) Ocasionalmente  
@@ -40,12 +39,14 @@ a) Nunca
 b) Raramente  
 c) A veces  
 d) Frecuentemente 
-### Deducción
+#### Deducción
 - Bajo estrés (0-20%) Nunca/Raramente: Estás manejando bien el estrés. ¡Ánimos!
+
 - Estrés moderado (21-60%) A veces/Ocasionalmente: Presentas un nivel de estrés moderado. Intenta hacer actividades que te relajen y ten un tiempo de descanso.
+
 - Alto estrés (61-100%) Frecuente/Constante: Tu nivel de estrés es preocupantemente alto. Te recomendamos buscar ayuda profesional y cambiar tu rutina diaria.
 
-#### Test de la ansiedad 
+### Test de la ansiedad 
 1.	¿Con qué frecuencia te sientes preocupado por cosas cotidianas?
 a)	Nunca
 b)	Rara vez
@@ -80,31 +81,41 @@ b)	Un poco nervioso/a
 c)	Moderadamente ansioso/a
 d)	Muy ansioso/a
 e)	Extremadamente ansioso/a
-## Deducción
+#### Deducción
+- Baja ansiedad (0-20%) Nunca/Rara vez: No tienes problemas significativos de ansiedad. Mantén tus hábitos saludables.
 
-#### Test de la autoestima  
-1. ¿Cuál es tu comportamiento frente a grandes grupos sociales?    
-a) Me siento ansioso/a y pienso que no formo parte de ellos.   
-b) Sobrepienso sus comportamientos hacia mí.   
-c) Aumenta mi interés social, siento seguridad y comodidad.   
+- Ansiedad moderada (21-60%) A veces/Con frecuencia: Experimentas ansiedad moderada. Procura hacer ejercicios de meditación y otras tecnicas para manejo de ansiedad.
 
-2. ¿Cómo reaccionas ante circunstancias difíciles y adversas?   
-a) Estoy lleno/a de ira y frustración.   
-b) Me muestro optimista y busco soluciones.   
-c) Tengo pensamientos negativos y falta de esperanza.   
+- Alta ansiedad (61-100%) Siempre/Con frecuencia: Tu ansiedad es alta y podría afectar tu vida diaria. Busca apoyo profesional y establece una rutina calmante.
+  
+### Test de la autoestima  
+1. ¿Cuál es tu comportamiento frente a grandes grupos sociales?
+2. a) Me siento ansioso/a y pienso que no formo parte de ellos.
+b) Sobrepienso sus comportamientos hacia mí.
+c) Aumenta mi interés social, siento seguridad y comodidad.
 
-3. ¿Cómo enfrentas los fracasos?   
-a) Busco mejorar día a día.   
-b) Me cuesta hacerlo, creo que soy mediocre y me culpo constantemente.   
-c) Me siento triste y decepcionado/a.   
+3. ¿Cómo reaccionas ante circunstancias difíciles y adversas?
+a) Estoy lleno/a de ira y frustración.
+b) Me muestro optimista y busco soluciones.
+c) Tengo pensamientos negativos y falta de esperanza.
 
-4. ¿Sientes que tu valor proviene de las opiniones ajenas?   
-a) Me afectan significativamente, pero intento no dejarme llevar.   
-b) Sí, siempre trato de encajar para no caer en el rechazo.   
-c) EStoy seguro/a de mi valor y la percepción ajena no interviene en mis capacidades.   
+4. ¿Cómo enfrentas los fracasos?
+a) Busco mejorar día a día.
+b) Me cuesta hacerlo, creo que soy mediocre y me culpo constantemente.
+c) Me siento triste y decepcionado/a.
 
-5. ¿Estableces límites respecto a los intereses ajenos?   
-a) No, siempre complazco los intereses de los demás dejando de lado los propios.   
-b) Tengo carácter y personalidad para no tener que satisfacer a otros.   
+5. ¿Sientes que tu valor proviene de las opiniones ajenas?
+a) Me afectan significativamente, pero intento no dejarme llevar.
+b) Sí, siempre trato de encajar para no caer en el rechazo.
+c) EStoy seguro/a de mi valor y la percepción ajena no interviene en mis capacidades.
+
+6. ¿Estableces límites respecto a los intereses ajenos?
+a) No, siempre complazco los intereses de los demás dejando de lado los propios.
+b) Tengo carácter y personalidad para no tener que satisfacer a otros.
 c) Trato de agradar para ser gratificado/a y obtener aprobación.
-## Deducción 
+#### Deducción 
+- Baja autoestima (0-20%) Me siento ansioso/Me afecta: Tu autoestima es baja. Es importante buscar apoyo y trabajar en la autoaceptación de tu persona.
+ 
+- Autoestima moderada (21-60%) Inseguridad ocasional: Tu autoestima es moderada. Trabaja en fortalecerla desafiando pensamientos negativos. Sé que puedes.
+ 
+- Alta autoestima (61-100%) Seguridad y percepción positiva: Tienes una buena percepción de ti mismo. Estoy orgullosa de ti.
