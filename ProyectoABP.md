@@ -7,7 +7,7 @@ Aplicación en Python, que automatiza un contexto especifico con acceso a datos
 ## Descripción  
 Este proyecto tiene como objetivo desarrollar una aplicación en Pythton que automatice un contexto específico con acceso a datos, se debe realizar un análisis detallado de los requerimientos del proyecto; además debe identificar las necesidades específicas del sistema, incluyendo el tipo de datos que se manejarán, la lógica de negocio y las funcionalidades esperadas, determina las abstracciones de los modelos a utilizar, desde la base de datos hasta la forma de cómo se aplicaría el paradigma de programación para el proyecto propuesto. 
 
-##Estructura del proyecto  
+## ESTRUCTURA DEL PROYECTO  
 
 ## TestPsych
 En un mundo donde el bienestar emocional se ha vuelto una prioridad, TestPsych es una herramienta diseñada para ayudar a las personas a comprender y reflexionar sobre su estado emocional y psicológico. A través de una serie de tests personalizados, esta aplicación brinda recomendaciones prácticas que permiten a los usuarios mejorar su salud mental, proporcionando un apoyo accesible y comprensible.
